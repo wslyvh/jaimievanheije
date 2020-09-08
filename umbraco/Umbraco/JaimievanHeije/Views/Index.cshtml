@@ -1,0 +1,100 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Jaimie van Heije and his ambitious kitchen team welcome you to the dynamic ambience in our restaurant">
+    <meta name="author" content="Jaimie van Heije">
+    <title>@Umbraco.Field("pageName")</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/jaimievanheije.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    @{ Html.RenderPartial("Navigation"); }
+
+    <header class="intro" style="background-image: url('@Umbraco.Media(CurrentPage.Background).Url');">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading">
+                            <img src="@Umbraco.Media(CurrentPage.Logo).Url" alt="@Umbraco.Media(CurrentPage.Logo).Alt">
+                        </h1>
+                        <p class="intro-text">
+                            @Umbraco.Field("Intro")
+                        </p>
+                        @if (Model.Content.Children.Any())
+                        {
+                            <a href="#@Model.Content.Children().First().Id" class="btn btn-circle page-scroll">
+                                <i class="fa fa-angle-double-down animated"></i>
+                            </a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    @foreach (var child in Model.Content.Children)
+    {
+        Html.RenderPartial(child.DocumentTypeAlias, child);
+    }
+
+    <div id="map"></div>
+
+    <footer id="footer">
+        <div class="container">
+            <div class="col-md-6">
+                @{ Html.RenderPartial("Social"); }
+            </div>
+            <div class="col-md-6 text-right">
+                <span class="light">@Umbraco.Field("Copyright")</span>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="scripts/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="scripts/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="scripts/jquery.easing.min.js"></script>
+    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+    <!-- Custom Theme JavaScript -->
+    <script src="scripts/jaimievanheije.js"></script>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-73087618-3', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</body>
+</html>
