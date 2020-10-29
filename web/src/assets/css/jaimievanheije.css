@@ -154,7 +154,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../media/intro-bg-jaimie.jpg) no-repeat bottom center scroll;
+    background: url(/media/intro-bg-jaimie.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -181,6 +181,10 @@ a:focus {
         padding: 0;
     }
 
+    .intro .intro-body {
+        height: 1200px;
+    }
+
     .intro .intro-body .brand-heading {
         font-size: 100px;
     }
@@ -191,6 +195,10 @@ a:focus {
 }
 
 @media(max-width:767px) {
+    .intro .intro-body {
+        height: auto;
+    }
+
     .intro .intro-body .brand-heading img {
         width: 70%;
     }

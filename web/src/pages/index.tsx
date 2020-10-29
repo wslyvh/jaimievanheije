@@ -6,7 +6,8 @@ export default function Index() {
   const metadata = useSiteMetadata()
 
   return (
-    <div id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <>
+    <span id="page-top" data-spy="scroll" data-target=".navbar-fixed-top"></span>
       <nav className="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div className="container">
           <div className="navbar-header">
@@ -433,6 +434,6 @@ export default function Index() {
           </div>
         </div>
       </footer>
-    </div>
+    </>
   )
 }
