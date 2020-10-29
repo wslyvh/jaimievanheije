@@ -101,7 +101,7 @@ export default function Index() {
             <div className="row">
               <div className="col-md-8 col-md-offset-2">
                 <h1 className="brand-heading">
-                  <img src={"/logo.png"} alt="Jaimie van Heije Restaurant" />
+                  <img src={"/media/logo.png"} alt="Jaimie van Heije Restaurant" />
                 </h1>
                 <p className="intro-text">
                   Jaimie van Heije and his ambitious kitchen team welcome you to
