@@ -1,0 +1,28 @@
+{
+  "name": "jaimievanheije",
+  "private": true,
+  "description": "Public website for Jaimie van Heije",
+  "version": "0.1.0",
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{ts,tsx}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.24.67",
+    "gatsby-plugin-sass": "^2.3.16",
+    "gatsby-source-filesystem": "^2.3.34",
+    "gatsby-transformer-json": "^2.4.14",
+    "node-sass": "^4.14.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  }
+}
