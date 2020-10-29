@@ -292,7 +292,7 @@ export default function Index() {
           <br />
           <div className="row">
             <a
-              href="http://www.resengo.com/Flow/?CompanyId=1739713&ForceLC=NL"
+              href="https://www.resengo.com/Flow/?CompanyId=1739713&ForceLC=NL"
               className="btn btn-danger btn-lg margin-title"
             >
               Reservation
@@ -306,7 +306,7 @@ export default function Index() {
           <div className="container">
             <ul className="list-inline">
               <li>
-                <a href="http://www.denhamthejeanmaker.com/">
+                <a href="https://www.denhamthejeanmaker.com/">
                   <img
                     src="/media/denham.png"
                     alt="Denham the Jeanmaker"
@@ -315,7 +315,7 @@ export default function Index() {
                 </a>
               </li>
               <li>
-                <a href="http://www.selwynsenatori.com/">
+                <a href="https://www.selwynsenatori.com/">
                   <img
                     src="/media/selwyn.png"
                     alt="Selwyn Senatori"
