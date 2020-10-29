@@ -343,6 +343,8 @@ export default function Index() {
           data-netlify-honeypot="bot-field"
         >
           <input type="hidden" name="form-name" value="contact" />
+          <input type="hidden" name="subject" value="Contact website: {name}" />
+          
           <div className="row">
             <h2>Contact</h2>
 
