@@ -1,0 +1,16 @@
+backend:
+  name: github
+  repo: wslyvh/jaimievanheije
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - name: menu
+    label: Menu
+    folder: web/content/menu
+    create: true
+    fields:
+      - { name: order, label: Order, widget: number }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }

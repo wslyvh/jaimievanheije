@@ -1,9 +1,11 @@
 import React from "react"
 import { useSiteMetadata } from "../hooks/useSiteMetadata"
 import "../assets/main.scss"
+import { graphql } from "gatsby"
 
-export default function Index() {
+export default function Index({ data }) {
   const metadata = useSiteMetadata()
+  const menuNodes = data.allMarkdownRemark.edges
 
   return (
     <>
@@ -177,93 +179,57 @@ export default function Index() {
             <h2>Menu</h2>
             <br />
             <div className="row">
-              <button
-                type="button"
-                className="btn btn-danger btn-lg margin-button"
-                data-toggle="modal"
-                data-target="#1074"
-              >
-                Menu
-              </button>
-              <button
-                type="button"
-                className="btn btn-danger btn-lg margin-button"
-                data-toggle="modal"
-                data-target="#1075"
-              >
-                Wines
-              </button>
+              {menuNodes.map(({ node }) => {
+                return (
+                  <button
+                    key={node.id}
+                    type="button"
+                    className="btn btn-danger btn-lg margin-button"
+                    data-toggle="modal"
+                    data-target={`#${node.frontmatter.title}`}
+                  >
+                    {node.frontmatter.title}
+                  </button>
+                )
+              })}
             </div>
           </div>
         </div>
       </section>
 
-      <div
-        className="modal fade"
-        id="1074"
-        tabIndex={-1}
-        role="dialog"
-        aria-labelledby="1074-label"
-      >
-        <div className="modal-dialog" role="document">
-          <div className="modal-content">
-            <div className="modal-header">
-              <button
-                type="button"
-                className="close"
-                data-dismiss="modal"
-                aria-label="Close"
-              >
-                <span aria-hidden="true">&times;</span>
-              </button>
-              <h4 className="modal-title" id="1074-label">
-                Menu
-              </h4>
-            </div>
-            <div className="modal-body text-center">MENU</div>
-          </div>
-        </div>
-      </div>
-
-      <div
-        className="modal fade"
-        id="1075"
-        tabIndex={-1}
-        role="dialog"
-        aria-labelledby="1075-label"
-      >
-        <div className="modal-dialog" role="document">
-          <div className="modal-content">
-            <div className="modal-header">
-              <button
-                type="button"
-                className="close"
-                data-dismiss="modal"
-                aria-label="Close"
-              >
-                <span aria-hidden="true">&times;</span>
-              </button>
-              <h4 className="modal-title" id="1075-label">
-                Wines
-              </h4>
-            </div>
-            <div className="modal-body text-center">
-              <p className="text-left">
-                Bij de gerechten hebben wij een bijpassend wijnarrangement
-                samengesteld. Als u liever zelf een fles uitkiest, hebben wij
-                voor u een selectie gemaakt van over de hele wereld.
-                <br />
-                <br />
-              </p>
-              <p className="text-left">
-                Naast de huiswijnen serveren wij ook verschillende wijnen per
-                glas, mocht u advies willen kunt u daar altijd naar vragen bij
-                onze sommelier.
-              </p>
+      {menuNodes.map(({ node }) => {
+        return (
+          <div
+            key={`${node.id}-modal`}
+            className="modal fade"
+            id={`${node.frontmatter.title}`}
+            tabIndex={-1}
+            role="dialog"
+            aria-labelledby={`${node.frontmatter.title}-label`}
+          >
+            <div className="modal-dialog" role="document">
+              <div className="modal-content">
+                <div className="modal-header">
+                  <button
+                    type="button"
+                    className="close"
+                    data-dismiss="modal"
+                    aria-label="Close"
+                  >
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                  <h4 className="modal-title" id="1074-label">
+                    {node.frontmatter.title}
+                  </h4>
+                </div>
+                <div className="modal-body text-center">
+                  <section dangerouslySetInnerHTML={{ __html: node.html }} />
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
+        )
+      })}
 
       <section id="1080" className="container content-section text-center">
         <div className="row">
@@ -344,7 +310,7 @@ export default function Index() {
         >
           <input type="hidden" name="form-name" value="contact" />
           <input type="hidden" name="subject" value="Contact website: {name}" />
-          
+
           <div className="row">
             <h2>Contact</h2>
 
@@ -446,3 +412,19 @@ export default function Index() {
     </>
   )
 }
+
+export const pageQuery = graphql`
+  {
+    allMarkdownRemark(sort: { fields: [frontmatter___order], order: ASC }) {
+      edges {
+        node {
+          frontmatter {
+            title
+          }
+          id
+          html
+        }
+      }
+    }
+  }
+`
