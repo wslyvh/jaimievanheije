@@ -131,8 +131,7 @@ export default function Index() {
               eigenwijze stijl maakt elke lunch en elk diner een one-of-a-kind
               beleving.
             </p>
-            <p> </p>
-            <h3>Chef Jaimie van Heije</h3>
+            <h3 className="margin-title">Chef Jaimie van Heije</h3>
             <p>
               Jaimie van Heije komt uit een gezin waar eten altijd centraal
               stond. Als klein jongetje raakte hij al geïnspireerd door de
@@ -143,8 +142,7 @@ export default function Index() {
               Hij begon zijn eigen restaurant Jaimie van Heije, waar hij elke
               dag vol overgave zijn eigen gerechten bedenkt en creëert.
             </p>
-            <p> </p>
-            <h3>Cuisine</h3>
+            <h3 className="margin-title">Cuisine</h3>
             <p>
               <em>
                 “Mijn cuisine is moeilijk om onder woorden te brengen. Ik
@@ -173,7 +171,7 @@ export default function Index() {
             <div className="row">
               <button
                 type="button"
-                className="btn btn-danger btn-lg"
+                className="btn btn-danger btn-lg margin-button"
                 data-toggle="modal"
                 data-target="#1074"
               >
@@ -181,7 +179,7 @@ export default function Index() {
               </button>
               <button
                 type="button"
-                className="btn btn-danger btn-lg"
+                className="btn btn-danger btn-lg margin-button"
                 data-toggle="modal"
                 data-target="#1075"
               >
@@ -254,7 +252,6 @@ export default function Index() {
                 glas, mocht u advies willen kunt u daar altijd naar vragen bij
                 onze sommelier.
               </p>
-              <p className="text-left"> </p>
             </div>
           </div>
         </div>
@@ -289,14 +286,13 @@ export default function Index() {
               18:00 - 22:00 uur
             </p>
             <p>op dinsdag en woensdag gesloten.</p>
-            <p> </p>
           </div>
 
           <br />
           <div className="row">
             <a
               href="http://www.resengo.com/Flow/?CompanyId=1739713&ForceLC=NL"
-              className="btn btn-danger btn-lg"
+              className="btn btn-danger btn-lg margin-title"
             >
               Reservation
             </a>
@@ -311,18 +307,18 @@ export default function Index() {
               <li>
                 <a href="http://www.denhamthejeanmaker.com/">
                   <img
-                    src="./media/denham_new.png"
+                    src="/media/denham.png"
                     alt="Denham the Jeanmaker"
-                    style={{ maxWidth: "320" }}
+                    style={{ maxWidth: 320 }}
                   />
                 </a>
               </li>
               <li>
                 <a href="http://www.selwynsenatori.com/">
                   <img
-                    src="./media/selwyn.png"
+                    src="/media/selwyn.png"
                     alt="Selwyn Senatori"
-                    style={{ maxWidth: "320" }}
+                    style={{ maxWidth: 320 }}
                   />
                 </a>
               </li>
@@ -330,44 +326,29 @@ export default function Index() {
           </div>
         </div>
       </section>
+
       <section id="1072" className="container content-section text-center">
-        <form>
+        <form
+          name="contact"
+          method="post"
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
+        >
+          <input type="hidden" name="form-name" value="contact" />
           <div className="row">
             <h2>Contact</h2>
 
             <div className="col-md-6 text-right">
               <p>
-                <p>
-                  <strong>Restaurant Jaimie van Heije</strong>
-                  <br /> Kerkstraat 56 <br /> 1191 JE Ouderkerk a/d Amstel
-                  <br />
-                  <br /> T: +31 20 496 58 48
-                  <br /> E: info@jaimievanheije.nl
-                </p>
-                <p> </p>
-                <p> </p>
+                <strong>Restaurant Jaimie van Heije</strong>
+                <br /> Kerkstraat 56 <br /> 1191 JE Ouderkerk a/d Amstel
+                <br />
+                <br /> T: +31 20 496 58 48
+                <br /> E: info@jaimievanheije.nl
               </p>
             </div>
 
             <div className="col-md-6">
-              <div className="row error-message">
-                <div className="alert alert-danger fade in">
-                  <a href="#" className="close" data-dismiss="alert">
-                    &times;
-                  </a>
-                  <strong>Error!</strong> An error has occurred while sending
-                  your data. Please try again.
-                </div>
-              </div>
-              <div className="row success-message">
-                <div className="alert alert-info fade in">
-                  <a href="#" className="close" data-dismiss="alert">
-                    &times;
-                  </a>
-                  <strong>Thanks!</strong> We'll get back to you soon.
-                </div>
-              </div>
-
               <div className="row">
                 <div>
                   <input
@@ -419,10 +400,8 @@ export default function Index() {
               </button>
             </div>
           </div>
-          <input type="hidden" name="settingsNodeId" value="1072" />
         </form>
       </section>
-      <div id="map"></div>
 
       <footer id="footer">
         <div className="container">
