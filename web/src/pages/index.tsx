@@ -7,7 +7,11 @@ export default function Index() {
 
   return (
     <>
-    <span id="page-top" data-spy="scroll" data-target=".navbar-fixed-top"></span>
+      <span
+        id="page-top"
+        data-spy="scroll"
+        data-target=".navbar-fixed-top"
+      ></span>
       <nav className="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div className="container">
           <div className="navbar-header">
@@ -101,7 +105,10 @@ export default function Index() {
             <div className="row">
               <div className="col-md-8 col-md-offset-2">
                 <h1 className="brand-heading">
-                  <img src={"/media/logo.png"} alt="Jaimie van Heije Restaurant" />
+                  <img
+                    src={"/media/logo.png"}
+                    alt="Jaimie van Heije Restaurant"
+                  />
                 </h1>
                 <p className="intro-text">
                   Jaimie van Heije and his ambitious kitchen team welcome you to
@@ -393,7 +400,7 @@ export default function Index() {
           <div className="row">
             <div>
               <button
-                type="button"
+                type="submit"
                 id="contact-button"
                 className="btn btn-danger btn-lg"
               >
