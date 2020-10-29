@@ -5,5 +5,11 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-plugin-gtag`,
+      options: {
+        trackingId: `UA-73087618-3`,
+      },
+    }
   ],
 }
