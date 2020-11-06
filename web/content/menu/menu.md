@@ -1,6 +1,6 @@
 ---
-title: Menu
 order: 1
+title: Menu
 ---
 **MENU OKTOBER 2020**
 
@@ -26,6 +26,8 @@ chocolademousse met yoghurtroomijs en cacao meringue
 ---
 
 *Eventuele allergieën of dieetwensen kunnen worden doorgegeven bij de reservering.*
+
+-- 
 
 | | Menu | Wijn |
 | --- | --- | --- |
