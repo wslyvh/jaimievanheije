@@ -13,5 +13,6 @@ export const onClientEntry = () => {
     addScript('https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js')
     addScript('https://maps.googleapis.com/maps/api/js?key=AIzaSyCNHRJO3pFmcuw1T8RLthkmH7H7JXaA_cw')
     addScript('/scripts/jaimievanheije.js')
+    addScript('/scripts/formitable.js')
   }
 }

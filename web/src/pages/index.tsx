@@ -186,7 +186,7 @@ export default function Index({ data }) {
                     type="button"
                     className="btn btn-danger btn-lg margin-button"
                     data-toggle="modal"
-                    data-target={`#${node.frontmatter.title.replace(' ', '')}`}
+                    data-target={`#${node.frontmatter.title.replace(" ", "")}`}
                   >
                     {node.frontmatter.title}
                   </button>
@@ -202,7 +202,7 @@ export default function Index({ data }) {
           <div
             key={`${node.id}-modal`}
             className="modal fade"
-            id={`${node.frontmatter.title.replace(' ', '')}`}
+            id={`${node.frontmatter.title.replace(" ", "")}`}
             tabIndex={-1}
             role="dialog"
             aria-labelledby={`${node.frontmatter.title}-label`}
@@ -309,7 +309,11 @@ export default function Index({ data }) {
           data-netlify-honeypot="bot-field"
         >
           <input type="hidden" name="form-name" value="contact" />
-          <input type="hidden" name="subject" value="Contact Jaimie van Heije.nl" />
+          <input
+            type="hidden"
+            name="subject"
+            value="Contact Jaimie van Heije.nl"
+          />
 
           <div className="row">
             <h2>Contact</h2>
@@ -409,6 +413,7 @@ export default function Index({ data }) {
           </div>
         </div>
       </footer>
+      <div className="ft-widget-b2" data-restaurant="4afd3b2d" data-open="1500" data-open-mobile="false" data-color="#d9534f" data-language="nl" data-tag="Website" data-toolbar="true" data-toolbar-mobile="true"></div>
     </>
   )
 }
