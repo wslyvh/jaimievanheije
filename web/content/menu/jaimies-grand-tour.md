@@ -1,6 +1,6 @@
 ---
 order: 4
-title: Jaimie's grand tour
+title: Grand tour
 ---
 **JAIMIE'S GRAND TOUR**
 
