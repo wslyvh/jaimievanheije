@@ -31,6 +31,8 @@ chocolade en yoghurt
 **Pomelo**  
 kokos en groene thee
 
+-- 
+
 *Kerstmenu* 
 
 *Diner  €125,-*  
