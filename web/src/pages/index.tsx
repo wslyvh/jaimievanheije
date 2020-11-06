@@ -186,7 +186,7 @@ export default function Index({ data }) {
                     type="button"
                     className="btn btn-danger btn-lg margin-button"
                     data-toggle="modal"
-                    data-target={`#${node.frontmatter.title}`}
+                    data-target={`#${node.frontmatter.title.replace(' ', '')}`}
                   >
                     {node.frontmatter.title}
                   </button>
@@ -202,7 +202,7 @@ export default function Index({ data }) {
           <div
             key={`${node.id}-modal`}
             className="modal fade"
-            id={`${node.frontmatter.title}`}
+            id={`${node.frontmatter.title.replace(' ', '')}`}
             tabIndex={-1}
             role="dialog"
             aria-labelledby={`${node.frontmatter.title}-label`}
