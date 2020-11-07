@@ -312,7 +312,7 @@ export default function Index({ data }) {
           <input
             type="hidden"
             name="subject"
-            value="Contact Jaimie van Heije.nl"
+            value="Contact @ Jaimie van Heije"
           />
 
           <div className="row">
