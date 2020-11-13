@@ -413,7 +413,6 @@ export default function Index({ data }) {
           </div>
         </div>
       </footer>
-      <div className="ft-widget-b2" data-restaurant="4afd3b2d" data-open="1500" data-open-mobile="false" data-color="#d9534f" data-language="nl" data-tag="Website" data-toolbar="true" data-toolbar-mobile="true"></div>
     </>
   )
 }
