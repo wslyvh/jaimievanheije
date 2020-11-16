@@ -19,5 +19,3 @@ Pasta in romige truffelsaus met pittige kruidensla en parmezaan
 **"TIRAMISU"**
 
 mascarpone & koffie
-
-🇮🇹
