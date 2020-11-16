@@ -1,14 +1,31 @@
 ---
 order: 4
-title: Grand tour
+title: THE ITALIAN JOB
 ---
-**JAIMIE'S GRAND TOUR**
 
-**Chilled Noodle Salade**  
-Noodles, Radijs, rettich en pinda dressing
 
-**Black pepper chicken**  
-Jesse's geheime recept van de black pepper sauce met gebakken rijst en bosui
+Voor 2 personen:
 
-**Rainbow cake**  
-🌈
+
+**"ANTIPASTI"**
+
+
+gemarineerde tomaatjes, barbecue melanzana, groene pesto, crostini, gerookte amandel, prosciutto di Parma, olijfjes en artisjok
+
+**"VITELLO TONNATO"**
+
+
+Kalfsfricandeau & makreel mayonaise
+
+**"PASTA TARTUFO"**
+
+
+Pasta in romige truffelsaus met pittige kruidensla en parmezaan
+
+**"TIRAMISU"**
+
+
+mascarpone & koffie
+
+
+🇮🇹
