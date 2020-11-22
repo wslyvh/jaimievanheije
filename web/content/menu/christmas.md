@@ -2,7 +2,11 @@
 order: 3
 title: Christmas
 ---
-**HOME MENU**
+
+
+# **Home  Menu**
+
+## Hapjes
 
 Blikje krabsalade & kaviaar
 
@@ -10,20 +14,22 @@ Brioche met rillette van makreel
 
 Crouton met gedroogde ham
 
-**\- KINGFISH**
+## **Menu**
+
+**KINGFISH**
 
 met radijsjes, soja en duindoornbos
 
-**\- KREEFT**
+**KREEFT**
 
 met biet en onze umamisaus
 
-**\- TRUFFEL BEEF WELLINGTON**
+**TRUFFEL BEEF WELLINGTON**
 
 met aardappelsalade, zoetzure rode kool en jus van rode wijn
 
-**\- GINGER TART**
+**GINGER TART**
 
 met gekonfijte gember en specerijenroom
 
-**\- KERSTBROOD**
+**KERSTBROOD**
