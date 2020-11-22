@@ -2,38 +2,28 @@
 order: 3
 title: Christmas
 ---
-**CHRISTMAS MENU**
+**HOME MENU**
 
-**Oester**  
-Zeeuwse platte met moscow mule vinaigrette
+Blikje krabsalade & kaviaar
 
-**Noordzee Krab**  
-Oscietra kaviaar en avocado
+Brioche met rillette van makreel
 
-**Kabeljauw**  
-zwarte truffel, paddenstoeltjes en beurre blanc
+Crouton met gedroogde ham
 
-**Coquille**  
-dashi bouillon en gerookte mousseline 
+**\- KINGFISH**
 
-**Kreeft**  
-rode bietjes en de bekende umami saus 
+met radijsjes, soja en duindoornbos
 
-**Fazant**  
-ragout, miso en dragon 
+**\- KREEFT**
 
-**Ossenhaas Yakitori**  
-van de barbecue met zwarte peper
+met biet en onze umamisaus
 
-**Duindoornbesjes**  
-chocolade en yoghurt
+**\- TRUFFEL BEEF WELLINGTON**
 
-**Pomelo**  
-kokos en groene thee
+met aardappelsalade, zoetzure rode kool en jus van rode wijn
 
--- 
+**\- GINGER TART**
 
-*Kerstmenu* 
+met gekonfijte gember en specerijenroom
 
-*Diner  €125,-*  
-*Lunch € 90,-*
+**\- KERSTBROOD**
