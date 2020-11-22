@@ -9,7 +9,7 @@ Blikje krabsalade & kaviaar \
 Brioche met rillette van makreel \
 Crouton met gedroogde ham 
 
-**MENU** \
+\
 **KINGFISH**\
 met radijsjes, soja en duindoornbes\
 **KREEFT**\
