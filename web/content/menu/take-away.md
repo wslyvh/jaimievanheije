@@ -2,20 +2,33 @@
 order: 4
 title: Take-Away
 ---
-**"Hors-d'oeuvres"**
+**DECEMBER TOUR**
 
-Brioche met krabsalade 
 
-Coquille crudo & mango sour 
+**"Hors-d’oeuvres"** 
 
-**"Velouté"** 
 
-Knolselderij velouté met hazelnoot en vadouvan 
+ “Pepesan” makreel & sambal 
 
-**"Ragout"** 
 
-Pastei gevuld met ragout van ossenstaart met bospeen en truffel 
+ Aubergine met miso 
 
-**"Stoofpeer"** 
 
-Speculaas-crumble
+ Krielaardappel met mierikswortel 
+
+
+
+**"Kreeftenbisque"** 
+
+
+ Met geroosterde puntparika en croutons 
+
+**"Kippenborst"**
+
+
+ Geroosterde aardpeer, amandelen en onze umamisaus 
+
+**"Cheesecake"** 
+
+
+ Passievrucht, vanille en speculaas
