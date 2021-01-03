@@ -1,31 +1,33 @@
 ---
 order: 3
-title: "Celebrations box "
+title: WINTERTOUR
 ---
-**OYSTERS** 
+**VAL THORENS** 
 
-oesters met mango sour vinaigrette 
 
-**HORS D'OEUVRES** 
+Charcuterie (gedoogde ham & worst)
 
-Osetra kaviaar en krabsalade 
 
-tartelette met steak tartaar en truffel 
+Blini met gerookte zalm & mierikswortel 
 
-coquille crudo met wintergroentjes en xo-saus 
 
-**TO SHARE** 
+Pain et beurre
 
-tarte flambée 
 
-vitello tonnato 
 
-gevulde eitjes 
+**"TARTIFLETTE"**
+Aardappel, spek, ui, Savoie kaas en kruidensalade
 
-Pata Negra 
 
-grissini's met kruidenaïoli 
 
-**PASTRY** 
+**"BLANQUETTE DE VEAU"**
+Krokant korstdeeg met kruidige kalfsragout en pastinaak
 
-classic appelflap
+
+
+**"TARTE AUX MYRTILLES"**
+Taartje van blauwe bosbesjes
+
+
+
+En menu is €100,- voor twee personen en je het kan [hier](https://wwc.resengo.com/IndexFrame?companyShortCode=Restaurant_Jaime_van_Heije_Ouderkerk_ad_Amstel&Lang=NL&url=pq%2FFsL5gXV3FwLxirI%2BhvZuhwV2JnpdSlZWpwFydv7m%2BwM61nbehoXN2gnmgf3ZnalSAp6N1eI1raISZlJV2emNLinaZf155e6Cbm4dwf3F4n3WUiV6YhJyVnI5ja41qdk6bi6l4i4VsoZ53gFyWhYCBdbjPoF2ty6SqYp3Flw%3D%3D) bestellen
