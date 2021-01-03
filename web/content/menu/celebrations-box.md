@@ -16,16 +16,22 @@ Pain et beurre
 
 
 **"TARTIFLETTE"**
+
+
 Aardappel, spek, ui, Savoie kaas en kruidensalade
 
 
 
 **"BLANQUETTE DE VEAU"**
+
+
 Krokant korstdeeg met kruidige kalfsragout en pastinaak
 
 
 
 **"TARTE AUX MYRTILLES"**
+
+
 Taartje van blauwe bosbesjes
 
 
