@@ -11,7 +11,7 @@ Flammkuchen 
 
 Cappuccino van Hollandse garnaaltjes 
 
-Kartoffelsalat van aardappel gerookte zalmforel en mierikswortel 
+Kartoffelsalat van aardappel, gerookte zalmforel en mierikswortel 
 
  \
 **“SCHLUTZKRAPFEN”** 
