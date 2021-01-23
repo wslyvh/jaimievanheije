@@ -16,6 +16,7 @@ Getoast brood met tomaat en ansjovis \
 Artisjok met een tapanade van noten, tomaat en pepers\
 **Brood en groene kruiden aïoli** 
 
+\
 **"ESCABECHE"**\
 Kingfish gemarineerd in kruiden escabeche met basilicum \
 \
