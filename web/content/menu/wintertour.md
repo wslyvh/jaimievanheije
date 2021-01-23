@@ -8,22 +8,20 @@ title: WINTERTOUR
 
 **Gazpacho shot**\
 Chilled tomatensoep\
-\
 **Pata Negra** \
 Gedroogde Iberico ham \
-\
 **Pan con tomate**\
 Getoast brood met tomaat en ansjovis \
-\
 **Romesco**\
-Artisjok met een tapanade van noten, tomaat en pepers 
+Artisjok met een tapanade van noten, tomaat en pepers\
+**Brood en groene kruiden aïoli** 
 
-**Brood en groen**\
-Kingfish gemarineerd in kruiden escabeche met basilicum 
-
+**"ESCABECHE"**\
+Kingfish gemarineerd in kruiden escabeche met basilicum \
+\
 **“PAELLA” (to share)**\
-Rijst met kip, gamba, mosseltjes en barbecue groentjes 
-
+Rijst met kip, gamba, mosseltjes en barbecue groentjes \
+\
 **“FLAN CARAMEL”** \
 Custard en caramelsaus \
 \
