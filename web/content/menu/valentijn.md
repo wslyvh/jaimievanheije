@@ -1,6 +1,6 @@
 ---
 order: 4
-title: "TAKE-AWAY MENU "
+title: Italian menu
 ---
 **MENU**\
 \
