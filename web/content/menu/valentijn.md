@@ -1,28 +1,31 @@
 ---
 order: 4
-title: Italian menu
+title: "Jaimie's Rising Sun "
 ---
 **MENU**\
 \
-**"PIZZETTE"** \
-Hamachi crudo, mierikswortel, tomaat \
+"NORI TEMPURA" (TO SHARE)\
 \
-**"GRISSINI'S"** \
-Kruidenaïoli \
+"KINGFISH"\
+rettich & wasabi \
 \
-**"CAPONATA"**\
-Aubergine, tomaat en pijnboompitjes \
+"COQUILLE"\
+soja-vinaigrette, dashi-zure room, hazelnoot en pompoen \
 \
-**"VITELLO TONNATO"** \
-kalfsfricandeau, kappertjes en tonijnmayonaise \
+"TRUFFEL YAKITORI" \
+kippendij\
 \
-**"KREEFT CARBONARA"** \
-Pasta, spekjes, Parmezaanse kaas en truffel \
+"NASU DENGAKU" (TO SHARE)\
+miso glazed aubergine \
 \
-**"TIRAMISU"**\
-Mascarpone, koffie en langsvingers 
-
+"BEETROOT RAMEN"\
+bieten-noodles, ei en radijs\
 \
+"MISO BLACK COD" \
+oesterzwammen & Sake\
+\
+"YUZU CHEESECAKE" \
+citrus-salade\
 \
 \
 \
