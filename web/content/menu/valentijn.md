@@ -1,6 +1,6 @@
 ---
 order: 4
-title: "Jaimie's Rising Sun "
+title: "Rising Sun "
 ---
 **MENU**\
 \
