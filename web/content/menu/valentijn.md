@@ -1,31 +1,28 @@
 ---
 order: 4
-title: "Rising Sun "
+title: JAIMIEATHOME
 ---
 **MENU**\
 \
-"NORI TEMPURA" (TO SHARE)\
+"MAKREEL RILLETTE"\
+brioche, Ciboulette \
 \
-"KINGFISH"\
-rettich & wasabi \
+"SPRINGROL"\
+eend, hoisin, komkommer\
 \
-"COQUILLE"\
-soja-vinaigrette, dashi-zure room, hazelnoot en pompoen \
+"COQUILLE CRUDO"\
+knolselderij, hazelnoot vinaigrette \
 \
-"TRUFFEL YAKITORI" \
-kippendij\
+"CEVICHE"\
+zeebaars, tomaat, kokos\
 \
-"NASU DENGAKU" (TO SHARE)\
-miso glazed aubergine \
+"KALFSRAGOUT"\
+truffel, pastinaak, pastei \
 \
-"BEETROOT RAMEN"\
-bieten-noodles, ei en radijs\
+"PASSIEVRUCHT"\
+dragon & sinaasappel\
 \
-"MISO BLACK COD" \
-oesterzwammen & Sake\
-\
-"YUZU CHEESECAKE" \
-citrus-salade\
+"CITRUS-SALADE" \
 \
 \
 \
