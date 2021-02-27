@@ -5,7 +5,7 @@ title: JAIMIEATHOME
 **MENU**\
 \
 "MAKREEL RILLETTE"\
-brioche, Ciboulette \
+brioche & Ciboulette \
 \
 "SPRINGROL"\
 eend, hoisin, komkommer\
