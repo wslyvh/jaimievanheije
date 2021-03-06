@@ -1,28 +1,27 @@
 ---
 order: 4
-title: JAIMIEATHOME
+title: WEEKENDBOX
 ---
 **MENU**\
 \
-"MAKREEL RILLETTE"\
-brioche & Ciboulette \
+"PATA NEGRA"\
+brioche & truffel-mayonaise  \
 \
-"SPRINGROL"\
-eend, hoisin, komkommer\
+"PORNSTAR MARTINI TOMAATJES"\
+tomaat, passievrucht, basicum \
 \
-"COQUILLE CRUDO"\
-knolselderij, hazelnoot vinaigrette \
+"KINGFISH SASHIMI"\
+radijs, mierikswortel, rettich  \
 \
-"CEVICHE"\
-zeebaars, tomaat, kokos\
+"ARTISJOK"\
+bariqoule, Hollandse garnaaltjes, bisque\
 \
-"KALFSRAGOUT"\
-truffel, pastinaak, pastei \
+"KIP KERRIE"\
+Mais, Mexicaanse dragon, frisse kruiden\
 \
-"PASSIEVRUCHT"\
-dragon & sinaasappel\
+"FRAMBOZEN & ROZEN"\
+witte chocolade \
 \
-"CITRUS-SALADE" \
 \
 \
 \
