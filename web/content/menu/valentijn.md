@@ -1,26 +1,26 @@
 ---
 order: 4
-title: WEEKENDBOX
+title: LENTEBOX
 ---
 **MENU**\
 \
-"PATA NEGRA"\
-brioche & truffel-mayonaise  \
+"KINGFISH"\
+rettich, Mierikswortel, dille  \
 \
-"PORNSTAR MARTINI TOMAATJES"\
-tomaat, passievrucht, basicum \
+"KIMCHI"\
+bulgursalade, poulpo, radijs \
 \
-"KINGFISH SASHIMI"\
-radijs, mierikswortel, rettich  \
+"TOMAATJES"\
+sinaasappel, basilicum, vanille  \
 \
-"ARTISJOK"\
-bariqoule, Hollandse garnaaltjes, bisque\
+"UMAMI"\
+kreeft, gele bietjes, umamisaus\
 \
-"KIP KERRIE"\
-Mais, Mexicaanse dragon, frisse kruiden\
+"BBQ SUCADE"\
+rundersucade, truffelglaze, BBQ groentjes\
 \
-"FRAMBOZEN & ROZEN"\
-witte chocolade \
+"CIRCUS CITRUS"\
+taartje van amandel, pomelo en grapefruit\
 \
 \
 \
