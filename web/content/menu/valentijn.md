@@ -5,7 +5,7 @@ title: LENTEBOX
 **MENU**\
 \
 "KINGFISH"\
-rettich, Mierikswortel, dille  \
+rettich, mierikswortel, dille  \
 \
 "KIMCHI"\
 bulgursalade, poulpo, radijs \
