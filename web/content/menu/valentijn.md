@@ -4,23 +4,24 @@ title: LENTEBOX
 ---
 **MENU**\
 \
-"KINGFISH"\
-rettich, mierikswortel, dille  \
+"TARTE FLAMBEE"\
+ui, truffel, kruidenaioli\
+(to share)\
 \
-"KIMCHI"\
-bulgursalade, poulpo, radijs \
+"MANGO SOUR"\
+Coquille, mango sour vinaigrette \
 \
-"TOMAATJES"\
-sinaasappel, basilicum, vanille  \
+"PUMPKIN"\
+pompoen, hazelnoot, misosaus  \
 \
-"UMAMI"\
-kreeft, gele bietjes, umamisaus\
+"KABELJAUW"\
+tomaatjes, look & daslook beurre blanc\
 \
-"BBQ SUCADE"\
-rundersucade, truffelglaze, BBQ groentjes\
+"BBQ CHICKEN"\
+kip, bbq asperge, umamisaus \
 \
-"CIRCUS CITRUS"\
-taartje van amandel, pomelo en grapefruit\
+"CRUMBLE"\
+appel & rabarber\
 \
 \
 \
