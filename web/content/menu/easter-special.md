@@ -1,6 +1,6 @@
 ---
 order: 2
-title: "ASPERGE "
+title: ASPERGE MENU
 ---
 "VELOUTE" \
 Fluweelzachte aspergesoep met Hollandse garnaaltjes \
