@@ -1,21 +1,29 @@
 ---
 order: 2
-title: ASPERGE MENU
+title: VEGETABLE TOUR
 ---
-"VELOUTE" \
-Fluweelzachte aspergesoep met Hollandse garnaaltjes \
+"TO SHARE:" \
+brood met groene kruidenaioli \
+artisjok en romesco\
+zeewier tempura met wasabi dip \
 \
-"ASPERGE TARTAAR"\
-Met gerookte zalm en mierikswortel vinaigrette \
+"PORNSTAR MARTINI"\
+ cherry tomaatjes, passievrucht en Champagne \
 \
-"A LA FLAMANDE" \
-De klassieker: asperges met gerookte ham en botersaus\
+"TARTELETTE" \
+salade van knolselderij, avocado en radijs\
 \
-"BARBECUE" \
-Kreeft en asperge van de barbecue met Carbonarasaus \
+"NASU DENGAKU" \
+geroosterde Japanse aubergine met miso en sesamzaadjes  \
 \
-"CHEESECAKE" \
-Aardbeien, balsamico & basilicum \
+"UMAMI" \
+gepofte biet, truffel en umamisaus\
+\
+"CHOCOLADE BROWNIE"\
+frambozen, vlierbloesem en roze peper \
 \
 \
-*Het menu kost €55,- is per persoon. Je kunt hem [hier](https://wwc.resengo.com/indexframe?companyShortCode=Restaurant_Jaime_van_Heije_Ouderkerk_ad_Amstel&Lang=NL&url=pq%2FFsL5gXV3FwLxirI%2BhvZuhwV2JnpdSlZWpwFydv7m%2BwM61nbehoXN2gnmgf3ZnalSAp6N1eI1raISZlJV2emNLinaZf155e6Cbm4dwf3F4n3WUiV6YhJyVnI5ja41qdk6bi6l4i4VsoZ53gFyWhYCBdbjPoF2ty6SqYp3Flw%3D%3D) bestellen. Wij kunnen geen aanpassingen doen in het menu.*
+\
+\
+\
+*Het menu kost €100,- is voor twee personen. Je kunt hem [hier](https://wwc.resengo.com/indexframe?companyShortCode=Restaurant_Jaime_van_Heije_Ouderkerk_ad_Amstel&Lang=NL&url=pq%2FFsL5gXV3FwLxirI%2BhvZuhwV2JnpdSlZWpwFydv7m%2BwM61nbehoXN2gnmgf3ZnalSAp6N1eI1raISZlJV2emNLinaZf155e6Cbm4dwf3F4n3WUiV6YhJyVnI5ja41qdk6bi6l4i4VsoZ53gFyWhYCBdbjPoF2ty6SqYp3Flw%3D%3D) bestellen. Wij kunnen geen aanpassingen doen in het menu.*
