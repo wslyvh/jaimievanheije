@@ -1,6 +1,6 @@
 ---
 order: 2
-title: VEGETABLE TOUR
+title: VEGETABLE MENU
 ---
 "TO SHARE:" \
 brood met groene kruidenaioli \
