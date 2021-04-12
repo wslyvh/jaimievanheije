@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 1
 title: VEGETABLE MENU
 ---
 "TO SHARE:" \
