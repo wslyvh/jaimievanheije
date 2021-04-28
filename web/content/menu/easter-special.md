@@ -1,6 +1,6 @@
 ---
 order: 1
-title: "1 MEI "
+title: TAKE AWAY
 ---
 “CRUDITÉS" \
 lentegroentjes & kruidenaïoli \
