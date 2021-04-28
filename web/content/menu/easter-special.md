@@ -1,6 +1,6 @@
 ---
 order: 1
-title: TAKE AWAY
+title: TAKEAWAY
 ---
 “CRUDITÉS" \
 lentegroentjes & kruidenaïoli \
