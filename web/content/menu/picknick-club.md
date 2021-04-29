@@ -1,6 +1,6 @@
 ---
 order: 1
-title: PICKNICK CLUB
+title: PICKNICKCLUB
 ---
 **MENU** \
 \
