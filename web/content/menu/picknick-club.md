@@ -27,8 +27,8 @@ Met kruidenaïoli\
 kippendij, bacon, kerriemayonaise            \
 \
 **LOBSTER ROLL** *€20,00*\
-briochebroodje met kreeft
-
+briochebroodje met kreeft\
+\
 **FISH SLIDERS**  *€15,00*\
 Gestoomde bun, crispy fried cod, komkommer, XO\
 \
