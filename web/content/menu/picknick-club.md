@@ -23,8 +23,8 @@ hele artisjok met frisse mosterd-dip\
 **ZUURDESEMBROOD** *€5,00*\
 Met kruidenaïoli\
 \
-**PICKNICK CLUB SANDWICH** *€15,00*\
-kippendij, bacon, kerriemayonaise            \
+**BURATA** *€15,00*\
+tomatensalade & olijf           \
 \
 **LOBSTER ROLL** *€20,00*\
 briochebroodje met kreeft\
@@ -62,11 +62,14 @@ gelakte aubergine met miso en sesam\
 **BLOEMKOOL** *€12,50*\
 in zijn geheel gebakken bloemkool met curry\
 \
+**UMAMI** €22,00\
+ossenhaas met umamisaus \
+\
 **CHILI FRIES** *€6,00*\
 frietjes met mayonaise\
 \
 **STRAWBERRY MOON** *€12,50*\
-aardbeien, sorbetijs en meringue\
+aardbeien, basilicumsorbet en meringue\
 \
 **POPCORN ICECREAM** *€12,50*\
 met appel & gezouten caramel\
