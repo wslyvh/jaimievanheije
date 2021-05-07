@@ -1,6 +1,6 @@
 ---
 order: 2
-title: TAKEAWAY
+title: TAKE AWAY
 ---
 “EITJE" \
 morille, dashiroom & sambai \
