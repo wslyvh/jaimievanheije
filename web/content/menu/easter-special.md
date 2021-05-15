@@ -13,7 +13,7 @@ soja-vinaigrette, dashi-zure room, hazelnoot en pompoen  \
 "TRUFFEL YAKITORI" \
 kippendij\
 \
-"NASU DENGAKU"\
+"NASU DENGAKU" (to share)\
 miso glazed aubergine \
 \
 "BEETROOT RAMEN" \
