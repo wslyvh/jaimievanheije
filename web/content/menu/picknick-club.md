@@ -24,13 +24,13 @@ hele artisjok met frisse mosterd-dip\
 Met kruidenaïoli\
 \
 **BURATA** *€15,00*\
-tomatensalade & olijf           \
+tomatensalade, olijf, amandel en basilicum           \
 \
 **LOBSTER ROLL** *€20,00*\
 briochebroodje met kreeft\
 \
 **FISH SLIDERS**  *€15,00*\
-Gestoomde bun, crispy fried cod, komkommer, XO\
+gestoomde bun, crispy fried cod, komkommer, XO\
 \
 **WAGYU BURGER** *€20,00*\
 van de barbecue met Jaimie’s grillsaus\
@@ -42,9 +42,12 @@ tartelette miso, soja & truffel\
 tigermilk, zeebaars, maïs, koriander\
 \
 **CRISPY FRIED PULPO** *€15,00*\
-Met komkommer atjar en doenjangmayonaise\
+met komkommer atjar en doenjangmayonaise\
 \
 **BLACK PEPPER ZWEZERIK** €20,00\
+Yakitori-style van de houtskoolgrill\
+\
+**BLACK PEPPER CHICKEN** €15,00\
 Yakitori-style van de houtskoolgrill\
 \
 **HOLLANDSE ASPERGES** *€17,50*\
@@ -53,17 +56,20 @@ krokant ei, hazelnoot & saus van zwarte knoflook\
 **TARBOT**  *€20,00*\
 meiknol, dille en beurre blanc  \
 \
-**GELE BIET** *€15,00*\
-groene curry van Oost-Indische kers\
+**ZEEBAARS** *€20,00*\
+zoet-zure rettich, sambaivinaigrette & gerookte mousseline\
 \
 **NASU DENGAKU** *€12,50*\
 gelakte aubergine met miso en sesam\
 \
 **BLOEMKOOL** *€12,50*\
-in zijn geheel gebakken bloemkool met curry\
+in zijn geheel gebakken bloemkool met curry & amandel\
 \
-**UMAMI** €22,00\
-ossenhaas met umamisaus \
+**OSSENHAAS** *€22,00*\
+paddenstoeltjes, zwarte pepercrème, & umamisaus\
+\
+**DRY AGED BBQ RIBSTUK** *€75,00*\
+Hollandse Holstein \
 \
 **CHILI FRIES** *€6,00*\
 frietjes met mayonaise\
