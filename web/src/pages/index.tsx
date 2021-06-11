@@ -250,7 +250,7 @@ export default function Index({ data }) {
           </div>
           <div className="col-md-6 text-left">
             <p>
-              <strong>vrijdag, zaterdag &amp; zondag</strong> 12:00 – 20:00 uur
+              <strong>donderdag - zondag</strong> 12:00 – 20:00 uur
             </p>
             <br />
             <p>Vanaf 1 mei gaan we open met ons Picknick Club concept. Dit is een super relaxte setting waarbij wij ervoor zorgen dat je er altijd warm en droog bij zit. Dus ook als het regent kun je gewoon bij ons langskomen. We hebben een uitgebreide kaart vol lekkere gerechtjes die je door elkaar heen kan bestellen. Tot snel!</p>
