@@ -13,8 +13,8 @@ dungesneden *€15,00 p/50gr.*\
 op brioche toast met truffelmayo *€12,50*\
 \
 **KAVIAAR**\
-Ocietra 30gr. *€95,00*\
-Ocietra 50gr. *€135,00*\
+Oscietra 30gr. *€95,00*\
+Oscietra 50gr. *€135,00*\
 (met crackers & kruiden-crème fraîche)\
 \
 **ARTISJOK**  *€13,00*\
