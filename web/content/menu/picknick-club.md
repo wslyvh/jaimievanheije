@@ -17,7 +17,7 @@ Ocietra 30gr. *€95,00*\
 Ocietra 50gr. *€135,00*\
 (met crackers & kruiden-crème fraîche)\
 \
-**ARTISJOK**  *€12,50*\
+**ARTISJOK**  *€13,00*\
 hele artisjok met frisse mosterd-dip\
 \
 **ZUURDESEMBROOD** *€5,00*\
@@ -41,7 +41,10 @@ tartelette miso, soja & truffel\
 **CEVICHE** *€17,50*\
 tigermilk, zeebaars, maïs, koriander\
 \
-**CRISPY FRIED PULPO** *€15,00*\
+**HOLLANDSE NIEUWE** \
+haring, crunch van gepofte bacon, vinaigrette van gerookte buttermilk & dille\
+\
+**CRISPY FRIED PULPO** *€16,00*\
 met komkommer atjar en doenjangmayonaise\
 \
 **BLACK PEPPER ZWEZERIK** €20,00\
@@ -50,7 +53,7 @@ Yakitori-style van de houtskoolgrill\
 **BLACK PEPPER CHICKEN** €15,00\
 Yakitori-style van de houtskoolgrill\
 \
-**HOLLANDSE ASPERGES** *€17,50*\
+**GROENE ASPERGES** *€17,50*\
 krokant ei, hazelnoot & saus van zwarte knoflook\
 \
 **TARBOT**  *€20,00*\
@@ -62,7 +65,7 @@ zoet-zure rettich, sambaivinaigrette & gerookte mousseline\
 **NASU DENGAKU** *€12,50*\
 gelakte aubergine met miso en sesam\
 \
-**BLOEMKOOL** *€12,50*\
+**BLOEMKOOL** *€15,00*\
 in zijn geheel gebakken bloemkool met curry & amandel\
 \
 **OSSENHAAS** *€22,00*\
@@ -80,8 +83,8 @@ aardbeien, basilicumsorbet en meringue\
 **POPCORN ICECREAM** *€12,50*\
 met appel & gezouten caramel\
 \
-**DAME BLANCHE** *€10,00*\
+**DAME BLANCHE** *€12,50*\
 vanilleroomijs en chocolade\
 \
-**KAAS** *€12,50*\
+**KAAS** *€15,00*\
 selectie van 4 kazen
