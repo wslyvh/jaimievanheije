@@ -87,4 +87,4 @@ met appel & gezouten caramel\
 vanilleroomijs en chocolade\
 \
 **KAAS** *€15,00*\
-selectie van 4 kazen
+selectie van Nederlandse 4 kazen
