@@ -17,6 +17,9 @@ Oscietra 30gr. *€95,00*\
 Oscietra 50gr. *€135,00*\
 (met crackers & kruiden-crème fraîche)\
 \
+**MAATJE** \
+Hollandse nieuwe & zuur *€7,00*\
+\
 **ARTISJOK**  *€13,00*\
 hele artisjok met frisse mosterd-dip\
 \
@@ -29,8 +32,8 @@ tomatensalade, olijf, amandel en basilicum           \
 **LOBSTER ROLL** *€20,00*\
 briochebroodje met kreeft\
 \
-**FISH SLIDERS**  *€15,00*\
-gestoomde bun, crispy fried cod, komkommer, XO\
+**PORK BELLY BUN**  *€16,00*\
+gestoomde bun, char siu syle buikspek, komkommer & bosui\
 \
 **WAGYU BURGER** *€20,00*\
 van de barbecue met Jaimie’s grillsaus\
@@ -41,10 +44,10 @@ tartelette miso, soja & truffel\
 **CEVICHE** *€17,50*\
 tigermilk, zeebaars, maïs, koriander\
 \
-**HOLLANDSE NIEUWE** \
+**HOLLANDSE NIEUWE** *€ 16,00*\
 haring, crunch van gepofte bacon, vinaigrette van gerookte buttermilk & dille\
 \
-**CRISPY FRIED PULPO** *€16,00*\
+**CRISPY FRIED PULPO** *€20,00*\
 met komkommer atjar en doenjangmayonaise\
 \
 **BLACK PEPPER ZWEZERIK** €20,00\
@@ -65,8 +68,8 @@ zoet-zure rettich, sambaivinaigrette & gerookte mousseline\
 **NASU DENGAKU** *€12,50*\
 gelakte aubergine met miso en sesam\
 \
-**BLOEMKOOL** *€15,00*\
-in zijn geheel gebakken bloemkool met curry & amandel\
+**BLOEMKOOL** *€17,00*\
+in zijn geheel gebakken bloemkool met zomertruffel & hazelnoot\
 \
 **OSSENHAAS** *€22,00*\
 paddenstoeltjes, zwarte pepercrème, & umamisaus\
@@ -77,14 +80,20 @@ Hollandse Holstein \
 **CHILI FRIES** *€6,00*\
 frietjes met mayonaise\
 \
-**STRAWBERRY MOON** *€12,50*\
-aardbeien, basilicumsorbet en meringue\
+**SWEET WOODRUFF** *€12,50*\
+rabarber, yoghurt-roomijs & lievevrouwebedstro \
 \
-**POPCORN ICECREAM** *€12,50*\
-met appel & gezouten caramel\
+**POPCORN ICECREAM** *€13,50* \
+gezouten dulce de leche, appel & glazed pancetta\
+\
+**PINA COLADA** *€12,50* \
+ananas, bruine rum, kokos \
 \
 **DAME BLANCHE** *€12,50*\
 vanilleroomijs en chocolade\
+\
+**STRAWBERRY & CREAM** *€12,50* \
+aardbeien, vanille-roomijs & witte chocolade \
 \
 **KAAS** *€15,00*\
 selectie van Nederlandse 4 kazen
