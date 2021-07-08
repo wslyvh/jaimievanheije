@@ -24,7 +24,7 @@ Hollandse nieuwe & zuur *€7,00*\
 hele artisjok met frisse mosterd-dip\
 \
 **ZUURDESEMBROOD** *€5,00*\
-Met kruidenaïoli\
+met kruidenaïoli\
 \
 **BURATA** *€15,00*\
 tomatensalade, olijf, amandel en basilicum           \
