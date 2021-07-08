@@ -33,9 +33,9 @@ tomatensalade, olijf, amandel en basilicum           \
 briochebroodje met kreeft\
 \
 **PORK BELLY BUN**  *€16,00*\
-gestoomde bun, char siu syle buikspek, komkommer & bosui\
+gestoomde bun, char siu style buikspek, komkommer & bosui\
 \
-**WAGYU BURGER** *€20,00*\
+**MINI WAGYU BURGER** *€20,00*\
 van de barbecue met Jaimie’s grillsaus\
 \
 **STEAK TARTARE**  *€17,50*\
@@ -47,20 +47,26 @@ tigermilk, zeebaars, maïs, koriander\
 **HOLLANDSE NIEUWE** *€ 16,00*\
 haring, crunch van gepofte bacon, vinaigrette van gerookte buttermilk & dille\
 \
-**CRISPY FRIED PULPO** *€20,00*\
+**CRISPY FRIED POULPO** *€20,00*\
 met komkommer atjar en doenjangmayonaise\
 \
-**BLACK PEPPER ZWEZERIK** €20,00\
+**COQUILLE YAKITORI** *€19,50* \
+van de houtskoolgrill met XO-saus\
+\
+**BLACK PEPPER CHICKEN** *€15,00*\
 Yakitori-style van de houtskoolgrill\
 \
-**BLACK PEPPER CHICKEN** €15,00\
-Yakitori-style van de houtskoolgrill\
+**SLAVINK** *€21,00* \
+van zwezerik en pancetta met gremolata, hummus, granaagappel & zoethout \
 \
 **GROENE ASPERGES** *€17,50*\
 krokant ei, hazelnoot & saus van zwarte knoflook\
 \
 **TARBOT**  *€20,00*\
 meiknol, dille en beurre blanc  \
+\
+**KABELJAUW** *€20,00*\
+kruidige kreeftenbisque met gember, limoenblad & kurkuma\
 \
 **ZEEBAARS** *€20,00*\
 zoet-zure rettich, sambaivinaigrette & gerookte mousseline\
@@ -70,6 +76,9 @@ gelakte aubergine met miso en sesam\
 \
 **BLOEMKOOL** *€17,00*\
 in zijn geheel gebakken bloemkool met zomertruffel & hazelnoot\
+\
+**JONGE BOSPEEN** *€16,00*\
+gesoofd in 4 granen tripel bier met rogge & kardemom\
 \
 **OSSENHAAS** *€22,00*\
 paddenstoeltjes, zwarte pepercrème, & umamisaus\
