@@ -10,7 +10,7 @@ export const onClientEntry = () => {
 }
 
 export const onInitialClientRender = () => {
-  console.log("onClientEntry..")
+  console.log("onInitialClientRender..")
   window.onload = () => {
     addScript('https://maps.googleapis.com/maps/api/js?key=AIzaSyCNHRJO3pFmcuw1T8RLthkmH7H7JXaA_cw')
     addScript('/scripts/bootstrap.min.js')
