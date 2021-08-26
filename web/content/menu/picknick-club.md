@@ -57,7 +57,7 @@ van de houtskoolgrill met XO-saus\
 Yakitori-style van de houtskoolgrill\
 \
 **SLAVINK** *€21,00* \
-van zwezerik en pancetta met gremolata, hummus, granaagappel & zoethout \
+van zwezerik en pancetta met gremolata, hummus, granaatappel & zoethout \
 \
 **GROENE ASPERGES** *€17,50*\
 krokant ei, hazelnoot & saus van zwarte knoflook\
@@ -78,7 +78,7 @@ gelakte aubergine met miso en sesam\
 in zijn geheel gebakken bloemkool met zomertruffel & hazelnoot\
 \
 **JONGE BOSPEEN** *€16,00*\
-gesoofd in 4 granen tripel bier met rogge & kardemom\
+gestoofd in 4 granen tripel bier met rogge & kardemom\
 \
 **OSSENHAAS** *€22,00*\
 paddenstoeltjes, zwarte pepercrème, & umamisaus\
@@ -105,4 +105,4 @@ vanilleroomijs en chocolade\
 aardbeien, vanille-roomijs & witte chocolade \
 \
 **KAAS** *€15,00*\
-selectie van Nederlandse 4 kazen
+selectie van 4 Nederlandse kazen
