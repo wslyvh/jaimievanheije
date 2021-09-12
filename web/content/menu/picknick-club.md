@@ -17,16 +17,13 @@ Oscietra 30gr. *€95,00*\
 Oscietra 50gr. *€135,00*\
 (met crackers & kruiden-crème fraîche)\
 \
-**MAATJE** \
-Hollandse nieuwe & zuur *€7,00*\
-\
 **ARTISJOK**  *€13,00*\
 hele artisjok met frisse mosterd-dip\
 \
 **ZUURDESEMBROOD** *€5,00*\
 met kruidenaïoli\
 \
-**BURATA** *€15,00*\
+**BURRATA** *€15,00*\
 tomatensalade, olijf, amandel en basilicum           \
 \
 **LOBSTER ROLL** *€20,00*\
@@ -39,16 +36,13 @@ gestoomde bun, char siu style buikspek, komkommer & bosui\
 van de barbecue met Jaimie’s grillsaus\
 \
 **STEAK TARTARE**  *€17,50*\
-tartelette miso, soja & truffel\
+Ouderkerkse tafelzuren, super luchtige mosterdcrème & mini patatas bravas \
 \
 **CEVICHE** *€17,50*\
-tigermilk, zeebaars, maïs, koriander\
-\
-**HOLLANDSE NIEUWE** *€ 16,00*\
-haring, crunch van gepofte bacon, vinaigrette van gerookte buttermilk & dille\
+tigermilk, zeebaars en een salade van taugé, munt & koriander\
 \
 **CRISPY FRIED POULPO** *€20,00*\
-met komkommer atjar en doenjangmayonaise\
+met komkommer atjar & luchtige kimchi-mayonaise \
 \
 **COQUILLE YAKITORI** *€19,50* \
 van de houtskoolgrill met XO-saus\
@@ -59,38 +53,32 @@ Yakitori-style van de houtskoolgrill\
 **SLAVINK** *€21,00* \
 van zwezerik en pancetta met gremolata, hummus, granaatappel & zoethout \
 \
-**GROENE ASPERGES** *€17,50*\
-krokant ei, hazelnoot & saus van zwarte knoflook\
+**BBQ SPITSKOOL** *€17,50*\
+kruidige molé, amandelyoghurt & amandel\
 \
 **TARBOT**  *€20,00*\
 meiknol, dille en beurre blanc  \
 \
-**KABELJAUW** *€20,00*\
-kruidige kreeftenbisque met gember, limoenblad & kurkuma\
+**ROODBAARS A LA PLANCHA** *€20,00*\
+Hollandse garnaaltjes, kokos-Hollandaise & aardbeienvinaigrette \
 \
-**ZEEBAARS** *€20,00*\
-zoet-zure rettich, sambaivinaigrette & gerookte mousseline\
+**LUNGA AUBERGINE** *€17,50*\
+gepofte aubergine met witte misocrème & gekarameliseerde pecan\
 \
-**NASU DENGAKU** *€12,50*\
-gelakte aubergine met miso en sesam\
-\
-**BLOEMKOOL** *€17,00*\
+**BLOEMKOOL** *€19,00*\
 in zijn geheel gebakken bloemkool met zomertruffel & hazelnoot\
 \
-**JONGE BOSPEEN** *€16,00*\
-gestoofd in 4 granen tripel bier met rogge & kardemom\
-\
-**OSSENHAAS** *€22,00*\
-paddenstoeltjes, zwarte pepercrème, & umamisaus\
+**CHATEAU BRIAND 200 gr** *€49,00*\
+dikste gedeelte van de ossenhaas met paddenstoeltjes & umamisaus\
 \
 **DRY AGED BBQ RIBSTUK** *€75,00*\
-Hollandse Holstein \
+Hollandse Holstein, gerookte Hollandaise & eigen jus\
 \
 **CHILI FRIES** *€6,00*\
 frietjes met mayonaise\
 \
-**SWEET WOODRUFF** *€12,50*\
-rabarber, yoghurt-roomijs & lievevrouwebedstro \
+**TRUFFLE FRIES** *€13,50*\
+truffelmayonaise & parmezaan\
 \
 **POPCORN ICECREAM** *€13,50* \
 gezouten dulce de leche, appel & glazed pancetta\
@@ -98,11 +86,8 @@ gezouten dulce de leche, appel & glazed pancetta\
 **PINA COLADA** *€12,50* \
 ananas, bruine rum, kokos \
 \
-**DAME BLANCHE** *€12,50*\
-vanilleroomijs en chocolade\
-\
-**STRAWBERRY & CREAM** *€12,50* \
-aardbeien, vanille-roomijs & witte chocolade \
+**RASPBERRY HILL** *€12,50* \
+frambozen, meringue & limoenblad  \
 \
 **KAAS** *€15,00*\
 selectie van 4 Nederlandse kazen
