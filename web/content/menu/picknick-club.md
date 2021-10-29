@@ -5,41 +5,36 @@ title: MENUKAART
 **MENU** \
 \
 **OESTERS**\
-cru met rode wijnazijn en citroen *€5,50 p/s*t\
-signature mangosour *€5,50 p/st*\
+cru met rode wijnazijn en citroen *€6,50 p/s*t\
+signature mangosour *€6,50 p/st*\
 \
 **PATA NEGRA**\
-dungesneden *€15,00 p/50gr.*\
-op brioche toast met truffelmayo *€12,50*\
+dungesneden *€16,00 p/50gr.*\
+op brioche toast met truffelmayo *€13,50*\
 \
 **KAVIAAR**\
 Oscietra 30gr. *€95,00*\
 Oscietra 50gr. *€135,00*\
+Beluga 50gr. *€ 300,00*\
 (met crackers & kruiden-crème fraîche)\
 \
-**ARTISJOK**  *€13,00*\
+**ARTISJOK**  *€14,00*\
 hele artisjok met frisse mosterd-dip\
 \
-**ZUURDESEMBROOD** *€5,00*\
+**ZUURDESEMBROOD** *€5,50*\
 met kruidenaïoli\
 \
-**BURRATA** *€15,00*\
+**BURRATA** *€16,00*\
 tomatensalade, olijf, amandel en basilicum           \
 \
-**LOBSTER ROLL** *€20,00*\
+**LOBSTER ROLL** *€22,00*\
 briochebroodje met kreeft\
-\
-**PORK BELLY BUN**  *€16,00*\
-gestoomde bun, char siu style buikspek, komkommer & bosui\
-\
-**MINI WAGYU BURGER** *€20,00*\
-van de barbecue met Jaimie’s grillsaus\
 \
 **STEAK TARTARE**  *€17,50*\
 Ouderkerkse tafelzuren, super luchtige mosterdcrème & mini patatas bravas \
 \
-**CEVICHE** *€17,50*\
-tigermilk, zeebaars en een salade van taugé, munt & koriander\
+**KINGFISH** *€18,00*\
+sashimi-style met mandarijnponzu \
 \
 **CRISPY FRIED POULPO** *€20,00*\
 met komkommer atjar & luchtige kimchi-mayonaise \
@@ -47,47 +42,44 @@ met komkommer atjar & luchtige kimchi-mayonaise \
 **COQUILLE YAKITORI** *€19,50* \
 van de houtskoolgrill met XO-saus\
 \
-**BLACK PEPPER CHICKEN** *€15,00*\
-Yakitori-style van de houtskoolgrill\
-\
-**SLAVINK** *€21,00* \
-van zwezerik en pancetta met gremolata, hummus, granaatappel & zoethout \
+**HERFST FRICASEE** *€29,50*\
+kreeft, zwezerik, cantharellen en dragon \
 \
 **BBQ SPITSKOOL** *€17,50*\
 kruidige molé, amandelyoghurt & amandel\
 \
-**TARBOT**  *€20,00*\
+**TARBOT**  *€22,00*\
 meiknol, dille en beurre blanc  \
 \
-**ROODBAARS A LA PLANCHA** *€20,00*\
-Hollandse garnaaltjes, kokos-Hollandaise & aardbeienvinaigrette \
+**KABELJAUW** *€22,00*\
+boerenkool, wasabi & krokante palmkool \
 \
 **LUNGA AUBERGINE** *€17,50*\
 gepofte aubergine met witte misocrème & gekarameliseerde pecan\
 \
-**BLOEMKOOL** *€19,00*\
-in zijn geheel gebakken bloemkool met zomertruffel & hazelnoot\
+**BLOEMKOOL** *€22,00*\
+in zijn geheel gebakken bloemkool met herfsttruffel & hazelnoot\
 \
-**CHATEAU BRIAND 200 gr** *€49,00*\
-dikste gedeelte van de ossenhaas met paddenstoeltjes & umamisaus\
+**DAMHERT 200 gr** *€52,00*\
+dikste gedeelte van de rugfilet gebraden in de boter met paddenstoeltjes & umamisaus\
 \
-**DRY AGED BBQ RIBSTUK** *€75,00*\
-Hollandse Holstein, gerookte Hollandaise & eigen jus\
+**DRY AGED BBQ RIBSTUK** *€90,00*\
+Hollandse Holstein, gerookte mousseline & rode wijnjus\
 \
 **CHILI FRIES** *€6,00*\
 frietjes met mayonaise\
 \
-**TRUFFLE FRIES** *€13,50*\
-truffelmayonaise & parmezaan\
+**TRUFFLE POLENTA FRIES** *€15,00*\
+met herfsttruffel & parmezaan\
 \
 **POPCORN ICECREAM** *€13,50* \
 gezouten dulce de leche, appel & glazed pancetta\
 \
-**PINA COLADA** *€12,50* \
-ananas, bruine rum, kokos \
+**POMELO** *€12,50* \
+madeleine, citrussalade & kokosijs\
 \
-**RASPBERRY HILL** *€12,50* \
-frambozen, meringue & limoenblad  \
+**"BAKA BANA"** *€13,50* \
+roomijs van gebakkenbanaan met cacao-spongecake  \
 \
 **KAAS** *€15,00*\
 selectie van 4 Nederlandse kazen
