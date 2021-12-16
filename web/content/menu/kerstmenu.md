@@ -8,8 +8,7 @@ om de lunch mee te beginnen
 ZUURDESEMBROOD \
 & denneboter 
 
-PATA NEGRA \
-dungesneden 
+PATA NEGRA 
 
 KINGFISH CRUDO\
 radijsjes en citrus 
