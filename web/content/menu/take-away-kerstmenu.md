@@ -1,25 +1,43 @@
 ---
 order: 3
-title: "TAKE-AWAY KERSTMENU "
+title: CELEBRATIONBOX
 ---
-PATA NEGRA \
-dungesneden 
+HAMACHI SASHIMI \
+wasabi & mierikswortelvinaigrette 
 
-RILLETTE VAN MAKREEL \
-op een briochebroodje 
+ 
 
-KINGFISH SASHIMI \
-radijs, pompoen & mandarijnponzu
+TRUFFEL PIZZETTE \
+Crème fraîche, rode ui & wintertruffel 
 
-KREEFT \
-bietjes, kaviaar & umamisaus 
+ 
 
-BEEF WELLINGTON\
-met rode wijnjus, zoet/zure rode kool en gerookte aardappelsalade 
+PATA NEGRA \
+Dungesneden 
 
-STOOFPEER \
-brownie, perenvinaigrette en specerijenroom 
+ 
 
-KERSTBROOD 
+LOBSTERROLL \
+Kreeftensalade op een getoaste bun 
+
+
+
+BABA GANOUSH\
+met granaatappel en pane carasau
+
+ 
+
+ZUURDESEMBROOD\
+Met groene kruidenaïoli 
+
+ 
+
+OEUF MIMOSA \
+Gevulde eitjes 
+
+ 
+
+RILLETTE \
+Gerookte makreel op zachte brioche 
 
 *Een menu is voor twee personen en kost €200,- en je kunt hem[ hier](https://www.resengo.com/Code/Resengo/?Action=CA_EVENT&CompanyID=1739713&CID=2626&SCID=0&CACID=2&AID=1&EventID=158363177) bestellen. Het is voor ons niet mogelijk om aanpassingen te doen in het menu*
