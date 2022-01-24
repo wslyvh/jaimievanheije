@@ -3,17 +3,17 @@ order: 3
 title: WELCOME BACK MENU
 ---
 ZEEUWSE PLATTE \
-grapefruit, tequila anejo & verveine 
-
+grapefruit, tequila anejo & verveine \
+\
 COQUILLE CRUDO\
-aardpeer, gerookte crème fraîche & dashi
-
+aardpeer, gerookte crème fraîche & dashi\
+\
 ZUURDESEM\
-gezouten boerenboter  
-
+gezouten boerenboter  \
+\
 KREEFT\
-bietjes, daslook & umami-saus
-
+bietjes, daslook & umami-saus\
+\
 HOLLANDS HOLSTEIN \
 ribeye & eigen jus\
 \
