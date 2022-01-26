@@ -252,8 +252,6 @@ export default function Index({ data }) {
             <p>
               <strong>donderdag - zondag</strong> 12:00 – 22:00 uur
             </p>
-            <br />
-            <p>Wij zijn open met ons Picknick Club concept. Dit is een super relaxte setting in ons restaurant. Op het menu vind je allemaal kleine gerechtjes die je kriskras door elkaar kunt bestellen en picknick-style met elkaar kunt delen. Tot snel!</p>
             {/* <p>
               <strong>Lunch</strong> donderdag t/m maandag
               <br />
