@@ -3,7 +3,7 @@ order: 3
 title: FEBRUARI MENU
 ---
 ZEEUWSE PLATTE \
-grapefruit, tequila anejo & verveine \
+frozen Pornstar Martini\
 \
 LANGOUSTINE CRUDO\
 groene appel, radijs & French dressing\
@@ -12,7 +12,7 @@ ZUURDESEM\
 gezouten boerenboter  \
 \
 WINTERKABELJAUW\
-mosselen, pompoen & beurre blanc\
+aardpeer, cashew & beurre blanc\
 \
 HOLLANDS HOLSTEIN \
 ribeye, pied du mouton & knolselderij\
