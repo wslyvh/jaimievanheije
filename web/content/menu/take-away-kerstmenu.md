@@ -1,6 +1,6 @@
 ---
 order: 3
-title: MAART MENU
+title: APRIL MENU
 ---
 ZEEUWSE PLATTE \
 frozen Pornstar Martini\
@@ -20,8 +20,8 @@ aardpeer, cashew & beurre blanc\
 POULET NOIR \
 rettich, pruimen & shiso\
 \
-"MONT BLANC"\
-kastanje, vanille & blauwe bes\
+"PINDA"\
+limoenblad, chocolade, citroengras\
 \
 CANELE
 
