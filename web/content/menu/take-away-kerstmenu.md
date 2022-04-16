@@ -9,18 +9,15 @@ LANGOUSTINE CRUDO\
 groene appel, radijs & French dressing\
 \
 POTATO PAVE\
-gerookte lende, truffel en sjalot\
+gerookte lende, truffel en sjalot  \
 \
-ZUURDESEM\
-gezouten boerenboter  \
+KABELJAUW\
+aardpeer, daslook & beurre blanc\
 \
-WINTERKABELJAUW\
-aardpeer, cashew & beurre blanc\
+LENTE CURRY\
+Texels lam, Oosterscheldekreeft & gember \
 \
-POULET NOIR \
-rettich, pruimen & shiso\
-\
-"PINDA"\
+PINDA\
 limoenblad, chocolade, citroengras\
 \
 CANELE
