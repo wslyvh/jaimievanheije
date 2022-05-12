@@ -1,18 +1,18 @@
 ---
 order: 3
-title: MEI MENU
+title: LENTE MENU
 ---
 ZEEUWSE PLATTE \
 frozen Pornstar Martini\
 \
-LANGOUSTINE CRUDO\
-groene appel, radijs & French dressing\
+TOMAATJES\
+duindoorn & dennennaalden \
 \
-POTATO PAVE\
-gerookte lende, truffel en sjalot  \
+ZEEBAARS TARTAAR\
+rabarber, sesam & roze peper  \
 \
 KABELJAUW\
-aardpeer, daslook & beurre blanc\
+witte asperge, daslook & beurre blanc\
 \
 LENTE CURRY\
 Texels lam, Oosterscheldekreeft & gember \
@@ -22,4 +22,4 @@ limoenblad, chocolade, citroengras\
 \
 CANELE
 
-*In april serveren wij dit menu. Het menu is €92,00 per persoon. Als u allergieën of dieetwensen hebt waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
+*Wij serveren dit menu tijdens lunch & diner. Het menu is €92,00 per persoon. Als u allergieën of dieetwensen hebt waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
