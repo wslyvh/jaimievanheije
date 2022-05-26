@@ -2,7 +2,7 @@
 order: 3
 title: LENTE MENU
 ---
-ZEEUWSE PLATTE \
+OESTER\
 frozen Pornstar Martini\
 \
 TOMAATJES\
@@ -11,7 +11,7 @@ duindoorn & dennennaalden \
 ZEEBAARS TARTAAR\
 rabarber, sesam & roze peper  \
 \
-KABELJAUW\
+ZEEDUIVEL\
 witte asperge, daslook & beurre blanc\
 \
 LENTE CURRY\
