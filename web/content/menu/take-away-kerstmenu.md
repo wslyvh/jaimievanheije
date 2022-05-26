@@ -12,7 +12,7 @@ ZEEBAARS TARTAAR\
 rabarber, sesam & roze peper  \
 \
 ZEEDUIVEL\
-witte asperge, daslook & beurre blanc\
+Hollandse asperge, peulvruchtjes & lavas\
 \
 LENTE CURRY\
 Texels lam, Oosterscheldekreeft & gember \
