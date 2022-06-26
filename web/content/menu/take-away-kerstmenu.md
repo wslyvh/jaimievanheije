@@ -1,6 +1,6 @@
 ---
 order: 3
-title: LENTE MENU
+title: ZOMER MENU
 ---
 OESTER\
 frozen Pornstar Martini\
@@ -8,17 +8,17 @@ frozen Pornstar Martini\
 TOMAATJES\
 duindoorn & dennennaalden \
 \
-ZEEBAARS TARTAAR\
-rabarber, sesam & roze peper  \
+HOLLANDSE NIEUWE\
+koolrabi, groene appel & limoen  \
 \
 ZEEDUIVEL\
 Hollandse asperge, peulvruchtjes & lavas\
 \
-LENTE CURRY\
+ZOMER CURRY\
 Texels lam, Oosterscheldekreeft & gember \
 \
-PINDA\
-limoenblad, chocolade, citroengras\
+FRAMBOOS\
+chocolade, zuring & meringue \
 \
 CANELE
 
