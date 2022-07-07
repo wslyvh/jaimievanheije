@@ -11,11 +11,11 @@ duindoorn & dennennaalden \
 HOLLANDSE NIEUWE\
 koolrabi, groene appel & limoen  \
 \
-ZEEDUIVEL\
-Hollandse asperge, peulvruchtjes & lavas\
+ZEEBAARS \
+pistache, courgette, BBQ citroen \
 \
-ZOMER CURRY\
-Texels lam, Oosterscheldekreeft & gember \
+HOLLANDSE RIBEYE\
+morille, asperge, tuinboontjes \
 \
 FRAMBOOS\
 chocolade, zuring & meringue \
