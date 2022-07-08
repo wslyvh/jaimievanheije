@@ -186,7 +186,7 @@ export default function Index({ data }) {
                     type="button"
                     className="btn btn-danger btn-lg margin-button"
                     data-toggle="modal"
-                    data-target={`#${node.frontmatter.title.replace(/ /g,'')}`}
+                    data-target={`#${node.frontmatter.title.replace(/ /g, '')}`}
                   >
                     {node.frontmatter.title}
                   </button>
@@ -202,7 +202,7 @@ export default function Index({ data }) {
           <div
             key={`${node.id}-modal`}
             className="modal fade"
-            id={`${node.frontmatter.title.replace(/ /g,'')}`}
+            id={`${node.frontmatter.title.replace(/ /g, '')}`}
             tabIndex={-1}
             role="dialog"
             aria-labelledby={`${node.frontmatter.title}-label`}
@@ -250,19 +250,11 @@ export default function Index({ data }) {
           </div>
           <div className="col-md-6 text-left">
             <p>
-              <strong>donderdag - zondag</strong> 12:00 – 22:00 uur
+              woensdag: 18:00 - 22:00 <br />
+              donderdag: 18:00 - 22:00 <br />
+              vrijdag: 18:00 - 22:00 <br />
+              zaterdag 18:00 -22:00
             </p>
-            {/* <p>
-              <strong>Lunch</strong> donderdag t/m maandag
-              <br />
-              12:00 - 14:00 uur
-            </p>
-            <p>
-              <strong>Diner</strong> donderdag t/m maandag
-              <br />
-              18:00 - 22:00 uur
-            </p>
-            <p>op dinsdag en woensdag gesloten.</p> */}
           </div>
 
           <br />
