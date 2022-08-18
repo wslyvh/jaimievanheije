@@ -250,10 +250,13 @@ export default function Index({ data }) {
           </div>
           <div className="col-md-6 text-left">
             <p>
-              woensdag: 18:00 - 22:00 <br />
-              donderdag: 18:00 - 22:00 <br />
-              vrijdag: 18:00 - 22:00 <br />
-              zaterdag 18:00 -22:00
+              Tot 1 september<br/>
+              Woensdag t/m zaterdag diner
+            </p>
+            <p>
+              Vanaf 1 september <br/>
+              Maandag t/m zaterdag voor diner<br/>
+              (zondag gesloten)
             </p>
           </div>
 
