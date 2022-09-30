@@ -14,8 +14,6 @@ koolrabi, groene appel & limoen  \
 ZEEBAARS \
 pistache, courgette, BBQ citroen 
 
-
-
 IBERICO RIB\
 cantharellen, asperge, rode wijnjus
 
@@ -24,8 +22,6 @@ o﻿f
 W﻿AGYU BAVETTE A5\
 cantharellen, asperge, rode wijnjus\
 (supplement alleen per tafel te bestellen a 25,- p/p)
-
-
 
 FRAMBOOS\
 chocolade, zuring & meringue \
