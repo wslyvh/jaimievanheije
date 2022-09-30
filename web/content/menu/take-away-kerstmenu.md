@@ -1,6 +1,6 @@
 ---
 order: 3
-title: ZOMER MENU
+title: NAZOMER MENU
 ---
 OESTER\
 frozen Pornstar Martini\
@@ -22,6 +22,8 @@ o﻿f
 W﻿AGYU BAVETTE A5\
 cantharellen, asperge, rode wijnjus\
 (supplement alleen per tafel te bestellen a 25,- p/p)
+
+
 
 FRAMBOOS\
 chocolade, zuring & meringue \
