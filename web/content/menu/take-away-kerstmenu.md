@@ -21,7 +21,7 @@ of
 
 WAGYU RIB CAP A5\
 eekhoorntjesbrood & gepofte knoflookjus\
-s﻿upplement alleen per tafel te bestellen a 25,- p/p
+(s﻿upplement alleen per tafel te bestellen a 25,- p/p)
 
 TARTELETTE\
 cacao, braam, zwarte kersenbalsamico\
