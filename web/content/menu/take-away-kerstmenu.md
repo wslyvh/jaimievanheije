@@ -1,29 +1,31 @@
 ---
 order: 3
-title: NAZOMER MENU
+title: HERFST MENU
 ---
 OESTER\
 frozen Pornstar Martini\
 \
 TOMAATJES\
-duindoorn & dennennaalden \
+duindoorn & denne\
 \
-HOLLANDSE NIEUWE\
-koolrabi, groene appel & limoen  \
+ZEEBAARS\
+pistache, courgette & citroen\
 \
-ZEEBAARS \
-pistache, courgette, BBQ citroen 
+BBQ SQUID\
+gefermenteerde walnoot, rijst & foreleitjes
 
-IBERICO RIB\
-cantharellen, asperge & rode wijnjus\
-o﻿f\
-WAGYU BAVETTE A5\
-cantharellen, asperge, rode wijnjus\
+POULET NOIR\
+pastinaak, cantharellen & truffel
+
+of
+
+WAGYU RIB CAP A5\
+eekhoorntjesbrood & gepofte knoflookjus\
 s﻿upplement alleen per tafel te bestellen a 25,- p/p
 
-FRAMBOOS\
-chocolade, zuring & meringue \
+TARTELETTE\
+cacao, braam, zwarte kersenbalsamico\
 \
-CANELE
+CANELÉ
 
-*Wij serveren dit menu tijdens lunch & diner. Het menu is €92,00 per persoon. Als u allergieën of dieetwensen hebt waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
+*Wij serveren dit menu tijdens diner. Het menu is €92,00 per persoon. Als u allergieën of dieetwensen hebt waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
