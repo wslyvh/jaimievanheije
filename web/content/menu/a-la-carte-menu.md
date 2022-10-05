@@ -1,6 +1,6 @@
 ---
 order: 3
-title: A LA CARTE MENU
+title: A LA CARTE
 ---
 APERITIVO\
 O﻿ESTER\
