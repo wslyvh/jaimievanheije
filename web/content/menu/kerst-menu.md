@@ -20,12 +20,12 @@ aardpeer, barigoule & gerookte mousseline
 SHORTRIB\
 bloemkool & truffel
 
-k﻿
+ ﻿
 
 CHOCOLADE\
 d﻿uindoorn & dennenboom
 
-
+ ﻿ 
 
 "WIENERTACO"\
 citrus, kokos & groene thee\
