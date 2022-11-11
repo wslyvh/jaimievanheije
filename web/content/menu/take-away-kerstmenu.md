@@ -5,8 +5,8 @@ title: HERFST MENU
 OESTER\
 frozen Pornstar Martini\
 \
-TOMAATJES\
-duindoorn & denne
+GEROOKTE COQUILLE\
+yuzucrème & gele biet
 
 \
 ZEEBAARS\
@@ -15,14 +15,8 @@ pistache, courgette & citroen\
 BBQ SQUID\
 gefermenteerde walnoot, rijst & foreleitjes
 
-POULET NOIR\
-pastinaak, cantharellen & truffel
-
-of
-
-WAGYU RIB CAP A5\
-eekhoorntjesbrood & gepofte knoflookjus\
-(s﻿upplement alleen per tafel te bestellen a 25,- p/p)
+FAZANT\
+groene kool, crépinette & pruimen
 
 TARTELETTE\
 cacao, braam, zwarte kersenbalsamico\
