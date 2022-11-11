@@ -15,11 +15,17 @@ gele biet, peterselie & umamisaus\
 ZEEBAARS\
 aardpeer, barigoule & gerookte mousseline
 
+
+
 SHORTRIB\
 bloemkool & truffel
 
+
+
 CHOCOLADE\
 d﻿uindoorn & dennenboom
+
+
 
 "WIENERTACO"\
 citrus, kokos & groene thee\
