@@ -10,8 +10,8 @@ KAVIAAR 50gr.\
 kruidencrème & durumcrackers € 135
 
 STARTERS\
-T﻿OMAATJES\
-duindoorn & denne € 15\
+GEROOKTE COQUILLE\
+yuzucrème & gele biet € 23\
 \
 LANGOUSTINE CRUDO\
 radijs, groene appel & French dressing € 27
@@ -37,15 +37,15 @@ TARBOT\
 meiknol, beurre blanc € 37\
 (supplement 10gr kaviaar + € 27)
 
-WAGYU RIB CAP A5\
-eekhoorntjesbrood & gepofte knoflookjus € 62
+HOLLANDS RUND\
+b﻿ospaddenstoeltjes, pastinaak & jus van gepofte knoflook € 59
 
 DESSERT\
 KAAS\
 selectie van 5 kazen € 19
 
-FRAMBOZENSORBET\
-framboos, roze peper & merengue € 13
+KELAPA MUDA\
+r﻿ozen, kokos & chocolade € 13
 
 T﻿ARTE TATIN\
 a﻿ppel, karamel & vanille-room € 15
