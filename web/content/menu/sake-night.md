@@ -1,6 +1,6 @@
 ---
 order: 3
-title: Sake Night
+title: SAKE NIGHT
 ---
 SAKE COCKTAIL\
 Tokyo appetizers\
