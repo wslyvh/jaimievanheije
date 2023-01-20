@@ -1,26 +1,30 @@
 ---
 order: 4
-title: HERFST MENU
+title: "WINTERMENU "
 ---
-OESTER\
+ZEEUWSE PLATTE\
 frozen Pornstar Martini\
 \
-GEROOKTE COQUILLE\
-yuzucrème & gele biet
+PEER CEVICHE\
+hazelnoot, dragon & roze peper
 
 \
-ZEEBAARS\
-pistache, courgette & citroen\
+PATA NEGRA\
+brioche toast, sjalot & mierikswortel\
 \
-BBQ SQUID\
-gefermenteerde walnoot, rijst & foreleitjes
+SCHORSENEER À LA FLAMANDE\
+ei, peterselie & gerookte mousseline
 
-FAZANT\
-groene kool, crépinette & pruimen
+WINTERKABELJAUW\
+gele biet & umamisaus
 
-TARTELETTE\
-cacao, braam, zwarte kersenbalsamico\
-\
-CANELÉ
+SHORTRIB\
+bloemkool, zwarte kool & wintertruffel
 
-*Wij serveren dit menu tijdens diner. Het menu is €92,00 per persoon. Als u allergieën of dieetwensen heeft waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
+PASTINAAK\
+kastanje, blauwe bes & vanille
+
+CANELÉ\
+kardemom & kaneel
+
+*Wij serveren dit menu tijdens diner. Het menu is €110,00 per persoon. Als u allergieën of dieetwensen heeft waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
