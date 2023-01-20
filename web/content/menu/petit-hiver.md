@@ -5,11 +5,17 @@ title: PETIT HIVER
 PEER CEVICHE\
 hazelnoot, dragon & roze peper
 
+
+
 WINTERKABELJAUW\
 gele biet & umamisaus
 
+
+
 SUCADE\
 aardpeer, barigoule & gerookte mousseline
+
+
 
 PASTINAAK\
 kastanje, blauwe bes & vanille
