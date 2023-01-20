@@ -5,20 +5,25 @@ title: PETIT HIVER
 PEER CEVICHE\
 hazelnoot, dragon & roze peper
 
-
-
 WINTERKABELJAUW\
 gele biet & umamisaus
-
-
 
 SUCADE\
 aardpeer, barigoule & gerookte mousseline
 
-
-
 PASTINAAK\
 kastanje, blauwe bes & vanille
+
+
+
+KAAS I.P.V. DESSERT\
+supplement € 5
+
+WIJNARRANGEMENT \
+per gang € 12\
+\
+NON-ALCOHOLISCH\
+per gang € 10
 
 
 
