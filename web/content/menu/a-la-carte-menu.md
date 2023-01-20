@@ -28,12 +28,16 @@ gele biet, peterselie & umamisaus € 21
 SHORTRIB\
 bloemkool & zwarte truffel € 26
 
+
+
 TO SHARE\
 DRY-AGED BBQ RIB-EYE\
 pommes dauphine, wintersalade & gerookte mousseline € 99
 
 BEETROOT WELLINGTON\
 snijbiet & umamisaus € 68
+
+
 
 DESSERT\
 DUINDOORN\
