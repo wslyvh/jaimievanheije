@@ -2,50 +2,48 @@
 order: 3
 title: A LA CARTE
 ---
-APERITIVO\
-O﻿ESTER\
+ZEEUWSE PLATTE\
 frozen Pornstar Martini € 7\
 \
-KAVIAAR 50gr.\
-kruidencrème & durumcrackers € 135
+KAVIAAR 30gr.\
+m﻿et blini's & klassiek garnituur € 115
 
-STARTERS\
-GEROOKTE COQUILLE\
-yuzucrème & gele biet € 23\
+\
+PATA NEGRA 50 gr.\
+dungesneden € 19\
  ﻿\
-LANGOUSTINE CRUDO\
-radijs, groene appel & French dressing € 27 
+PEER CEVICHE\
+hazelnoot, dragon & roze peper € 20
 
-GEROOKTE RUNDERLENDE\
-BBQ-perzik, pesto & overjarige kaas € 22
+BRIOCHE TOAST\
+pata negra, sjalotten & mierikswortel € 18
 
-PATÉ EN CROÛTE\
-w﻿eekspecial (limited) € 29
+KINGFISH\
+pompoen, mandarijn & citrusvinaigrette € 20
 
-TUSSENGERECHTEN\
-BLOEMKOOL\
-beurre noisette, truffel & hazelnoot € 22
+\
+KABELJAUW\
+gele biet, peterselie & umamisaus € 21
 
-ZEEBAARS\
-pistache, courgette & BBQ-citroen € 24
+SHORTRIB\
+bloemkool & zwarte truffel € 26
 
-HOOFDGERECHTEN\
-"BEET WELLINGTON"\
-rode biet, duxelles & zwarte olijf € 32
+TO SHARE\
+DRY-AGED BBQ RIB-EYE\
+pommes dauphine, wintersalade & gerookte mousseline € 99
 
-TARBOT\
-meiknol, beurre blanc € 60\
-(supplement 10gr kaviaar + € 27)
-
-HOLLANDS RUND\
-b﻿ospaddenstoeltjes, pastinaak & jus van gepofte knoflook € 62
+BEETROOT WELLINGTON\
+snijbiet & umamisaus € 68
 
 DESSERT\
+DUINDOORN\
+chocolade, cacao & denne € 15
+
+PASTINAAK\
+kastanje, blauwe bes & vanille € 15
+
+AFFOGATO\
+vanilleroomijs & espresso € 13
+
 KAAS\
-selectie van 5 kazen € 19
-
-KELAPA MUDA\
-r﻿ozen, kokos & chocolade € 13
-
-T﻿ARTE TATIN\
-a﻿ppel, karamel & vanille-room € 15
+selectie van 5 kazen € 20
