@@ -251,6 +251,7 @@ export default function Index({ data }) {
           <div className="col-md-6 text-left">
             <p>
               Woensdag t/m zaterdag 18u - 22u<br/>
+              <br/>
             </p>
             <p>
               Vanaf zaterdag 18 februari<br/>
