@@ -1,6 +1,6 @@
 ---
 order: 4
-title: Valentijns Menu
+title: VALENTIJNS MENU
 ---
 HUMMUS\
 granaatappel & sesam\
