@@ -14,3 +14,10 @@ collections:
       - { name: order, label: Order, widget: number }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
+  - name: openingstijden
+    label: Openingstijden
+    folder: web/content/openingstijden
+    create: false
+    fields:
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }

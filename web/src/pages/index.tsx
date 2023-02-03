@@ -5,7 +5,8 @@ import { graphql } from "gatsby"
 
 export default function Index({ data }) {
   const metadata = useSiteMetadata()
-  const menuNodes = data.allMarkdownRemark.edges
+  const menuNodes = data.allMarkdownRemark.edges.filter(i => i.node.frontmatter.title !== 'Openingstijden')
+  const openingstijden = data.allMarkdownRemark.edges.filter(i => i.node.frontmatter.title === 'Openingstijden')
 
   return (
     <>
@@ -248,16 +249,11 @@ export default function Index({ data }) {
             </p>
             <p> </p>
           </div>
+          {openingstijden && openingstijden[0] && (
           <div className="col-md-6 text-left">
-            <p>
-              Woensdag t/m zaterdag 18u - 22u<br/>
-              <br/>
-            </p>
-            <p>
-              Vanaf zaterdag 18 februari<br/>
-              elke zaterdag ook open voor lunch van 12u - 15.30u
-            </p>
+            <div dangerouslySetInnerHTML={{ __html: openingstijden[0].node.html}} />
           </div>
+          )}
 
           <br />
           <div className="row">
