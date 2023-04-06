@@ -14,8 +14,6 @@ pata negra XO, morille & Oost-Indische kers
 BLOSSOM\
 vlierbloesem, kersenbloesem & cacao
 
-
-
 KAAS I.P.V. DESSERT\
 supplement € 5
 
