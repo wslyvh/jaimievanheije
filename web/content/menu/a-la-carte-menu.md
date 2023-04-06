@@ -15,8 +15,6 @@ TERINNE DU JOUR\
 wekelijks wisselend\
 19
 
-
-
 ESCABECHE\
 makreel, lente-ui & zoete aardappel\
 20 ﻿
@@ -24,8 +22,6 @@ makreel, lente-ui & zoete aardappel\
 BRIOCHE TOAST\
 g﻿erookte lende, sjalot & paprika\
 19
-
-
 
 KNOLSELDERIJ\
 zwarte truffel, zuurdesem & umamisaus\
@@ -36,25 +32,17 @@ NOORDZEEKRAB\
 strandkrab, daslook & orzo\
 26
 
-
-
 HOLLANDSE ASPERGE\
 oesterzwammen, eidooier & doenjang\
 21
-
-
 
 SHORTRIB\
 mierikswortel, Oost-Indische kers, umamisaus\
 27
 
-
-
 TO SHARE\
 DRY-AGED BBQ RIB-EYE\
-pommes dauphine, lentesalade & gerookte mousseline      99 
-
-
+pommes dauphine, lentesalade & gerookte mousseline                                                                99 
 
 DESSERT\
 "BLOSSOM"\
