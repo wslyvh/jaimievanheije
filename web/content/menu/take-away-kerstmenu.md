@@ -27,11 +27,6 @@ ananas, kokos & dragon
 
 
 
-PASTINAAKRIJST a﻿nanas, kokos & dragonCANELÉFUDGE\
-citroengras & vanille
-
-
-
 KAAS I.P.V. DESSERT\
 supplement € 5
 
