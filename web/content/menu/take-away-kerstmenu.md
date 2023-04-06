@@ -1,34 +1,34 @@
 ---
 order: 2
-title: "WINTERMENU "
+title: "LENTEMENU "
 ---
 ZEEUWSE PLATTE\
-frozen Pornstar Martini\
+bloedsinaasappel, paloma & rozemarijn\
 \
-PEER CEVICHE\
-hazelnoot, dragon & roze peper
-
-\
-PATA NEGRA\
-brioche toast, sjalot & mierikswortel
+E﻿SCABECHE\
+makreel, lente-ui & zoete aardappel
 
 \
-SCHORSENEER À LA FLAMANDE\
-ei, peterselie & gerookte mousseline
+GEROOKTE LENDE\
+brioche-toast, sjalot & paprika
 
-WINTERKABELJAUW\
-gele biet & umamisaus
+\
+NOORDZEEKRAB\
+strandkrab, daslook & orzo
 
-SHORTRIB\
-bloemkool, zwarte kool & wintertruffel
+HOLLANDSE ASPERGE\
+oesterzwammen, eidooier & doenjang
 
-PASTINAAK\
-kastanje, blauwe bes & vanille
+SHORTRIB \
+mierikswortel Oost-Indische kers & umamisaus
 
-CANELÉ\
-kardemom & kaneel
+RIJST\
+ananas, kokos & dragon
 
 
+
+PASTINAAKRIJST a﻿nanas, kokos & dragonCANELÉFUDGE\
+citroengras & vanille
 
 
 
@@ -38,7 +38,7 @@ supplement € 5
 WIJNARRANGEMENT \
 per gang € 12\
 \
-NON-ALCOHOLISCH\
+NON-ALCOHOLISCH ARRANGEMENT\
 per gang € 10
 
 *Wij serveren dit menu tijdens diner. Het menu is €110,00 per persoon. Als u allergieën of dieetwensen heeft waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
