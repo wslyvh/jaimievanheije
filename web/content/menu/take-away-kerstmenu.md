@@ -29,4 +29,4 @@ supplement € 5
 WIJNARRANGEMENT \
 per gang € 12
 
-*Wij serveren dit menu tijdens diner. Het menu is €125,00 per persoon. Als u allergieën of dieetwensen heeft waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
+*Wij serveren dit menu tijdens diner. Het menu is €120,00 per persoon. Als u allergieën of dieetwensen heeft waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
