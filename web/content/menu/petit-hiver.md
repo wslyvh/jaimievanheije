@@ -1,26 +1,23 @@
 ---
 order: 3
-title: PETIT PRINTEMPS
+title: SMALL SUNSHINE
 ---
-PEER-CEVICHE\
-hazelnoot, dragon & roze peper
+TOMAATJES\
+aardbei, peper & citroengras
 
 NOORDZEEKRAB\
-strandkrab, daslook & orzo
+strandkrab, lavas & orzo
 
-IBERICO RIB\
-pata negra XO, morille & Oost-Indische kers
+SHORTRIB\
+a﻿sperge, mierikswortel & umamisaus
 
-BLOSSOM\
-vlierbloesem, kersenbloesem & cacao
+PASSIEVRUCHT\
+mascarpone, vanille & ananas
 
 KAAS I.P.V. DESSERT\
 supplement € 5
 
 WIJNARRANGEMENT \
-per gang € 12\
-\
-NON-ALCOHOLISCH ARRANGEMENT\
-per gang € 10
+per gang € 12
 
 *Wij serveren dit menu tijdens diner. Het menu is €75,00 per persoon. Als u allergieën of dieetwensen heeft waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
