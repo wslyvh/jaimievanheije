@@ -1,6 +1,6 @@
 ---
 order: 2
-title: "ZOMERMENU "
+title: THE FINAL EDITION
 ---
 ZEEUWSE CREUSE \
 sinaasappel, paloma & rozemarijn\
@@ -8,20 +8,20 @@ sinaasappel, paloma & rozemarijn\
 TOMAATJES \
 a﻿arbei, peper & citroengras 
 
-TERRINE\
-barbecue prei, pata negra & sjalot\
+G﻿EROOKTE LENDE\
+brioche toast, zomer truffel & sjalot\
 \
 T﻿ARBOT\
 m﻿eiknol, look & beurre blanc \
 \
-NOORDZEEKRAB\
-strandkrab, daslook & orzo
+KREEFT\
+b﻿uikspek, gele biet & umami saus 
 
-S﻿HORTRIB\
-asperge, mierikswortel & umamisaus 
+BOERDERIJ KIP\
+B﻿BQ asperge, hatosi & saus mousseline 
 
-P﻿ASSIEVRUCHT\
-mascarpone, vanille & ananas
+DUINDOORN\
+c﻿hocolade, yoghurt & duindoornbesjes
 
 KAAS I.P.V. DESSERT\
 supplement € 5
@@ -29,4 +29,4 @@ supplement € 5
 WIJNARRANGEMENT \
 per gang € 12
 
-*Wij serveren dit menu tijdens diner. Het menu is €120,00 per persoon. Als u allergieën of dieetwensen heeft waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
+*Wij serveren dit menu tijdens diner. Het menu is €135,00 per persoon. Als u allergieën of dieetwensen heeft waar wij rekening mee mogen houden, vragen wij u deze bij het reserveren door te geven. Tot snel!*
