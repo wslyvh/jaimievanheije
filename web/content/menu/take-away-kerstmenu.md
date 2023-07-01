@@ -23,9 +23,6 @@ B﻿BQ asperge, hatosi & saus mousseline
 DUINDOORN\
 c﻿hocolade, yoghurt & duindoornbesjes
 
-KAAS I.P.V. DESSERT\
-supplement € 5
-
 WIJNARRANGEMENT \
 per gang € 12
 
